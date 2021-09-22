@@ -23,5 +23,5 @@ Apart from pressing the space bar, the only control available to the player is t
 
 ## Listings
 
-[Listing #1](DONKEY.BAS)- DONKEY.BAS BASIC souce code
+[Listing #1](DONKEY.BAS)- DONKEY.BAS Original BASIC souce code
 
