@@ -21,15 +21,7 @@ The game keeps score between the player and the donkeys. If the car hits a donke
 
 Apart from pressing the space bar, the only control available to the player is to press the Esc key and quit the game.
 
-## Development
-Star Trader was written by Dave Kaufman in the [BASIC programming language](https://en.wikipedia.org/wiki/BASIC). The source code to the game was published in the People's Computer Company Newsletter in volume 2, issue 3 in January 1974. The concept for the game is seemingly based on Isaac Asimov's Foundation series of novels.
-
-## Legacy
-In 1977, the game's code was reprinted in What to Do After You Hit Return. Star Trader was used as the inspiration for the first game of the Trade Wars series of multiplayer space trading games in 1984, making it the ancestor of many subsequent space trader games, including Eve Online, the Wing Commander Privateer series and Elite series.
-
-Several unrelated but similar space trading games have been released under the name Star Trader. One such game was released by Bug Byte Software in 1984 for the ZX Spectrum and Commodore 64, and was one of the games included with the Softaid compilation. Another was written by S. J. Singer in 1984 using Altair Basic, and modified by John Zaitseff for Microsoft Basic under the CP/M-80 operating system in 1988. Completely rewritten versions for CP/M-80, CP/M-86, MS-DOS, Microsoft Windows 3.1 and Linux/Unix followed, with the latest release for Linux and Unix occurring in November 2019. All versions by John Zaitseff have been released or relicensed under the GNU General Public License v3.
-
 ## Listings
 
-[Listing #1](src/STAR%20TRADERS%20GAME%20SET-UP%20MODULE%20-%20HP%20BASIC.txt)- Star Trader / Game Seup Module - HP BASIC
+[Listing #1](DONKEY.BAS)- DONKEY.BAS BASIC souce code
 
